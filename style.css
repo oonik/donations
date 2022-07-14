@@ -1,0 +1,152 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    border: 2px solid #423838e5;
+    margin: 0%;
+    
+}
+header{
+    background-image: url(images/donation6.jpg);
+    background-size: cover;
+    text-align: center;
+    padding: 100px;
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+    
+    
+    
+}
+h1{
+    font-size: 70px;
+    color: aliceblue;
+
+}
+h2{
+    font-size: 50px;
+}
+
+.contante-center{
+    margin-top: 10%;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 10%;
+    width: auto;
+    text-align: center;
+}
+#p-tag{
+    margin-bottom: 5%;
+    color: aliceblue;
+    font-weight: 700;
+
+}
+#pp-tag{
+    margin-top: 5%;
+}
+.ppp-tag{
+    margin-bottom: 5%;
+}
+.anchor{
+    text-decoration: none;
+    border: 1px solid orangered;
+    padding: 13px 36px;
+    background-color: orangered;
+    border-radius: 5%;
+    font-weight: 700;
+    color: whitesmoke;
+    font-size: large;
+    
+}
+.container{
+    display: flex;
+    
+    
+}
+.box{
+    text-align: justify;
+    border: 2px solid whitesmoke;
+    box-shadow: 10px 10px 10px whitesmoke;
+    padding: 28px 24px;
+    margin-left: 1%;
+    margin-right: 1%;
+    font-size: 28px;
+    font-weight: 700;
+}
+#red{
+    border: 2px solid rgb(240, 68, 68);
+    background-color: rgb(248, 232, 236);
+    color: rgb(240, 68, 68);
+}
+.our-donate-plan{
+    margin: 10% 10%;
+    text-align: center;
+}
+.box-size{
+    border: 2px solid grey;
+    padding: 35px 5px;
+    margin-left: 1%;
+    margin-right: 1%;
+    text-align: left;
+}
+#bg-color{
+    background-color: rgb(217, 180, 168);
+}
+#bg-color-gray{
+    background-color: rgb(183, 171, 171);
+}
+#bg-color-dark{
+    background-color: rgb(180, 219, 219);
+}
+.their-lives{
+    margin: 10% 10%;
+}
+.width{
+    width: 40%;
+}
+#size{
+    height: 100%;
+    width: 120%;
+    margin-top: 10%;
+    margin-left: 20%;
+}
+.suvive{
+    margin: 10% 10%;
+}
+#image{
+    height: 110%;
+    width: 120%;
+    
+}
+.image-width{
+    width: 40%;
+}
+#margin{
+    margin-left: 10%;
+}
+.email-bar{
+    text-align: center;
+    margin: 15% 10%;
+}
+.border{
+    border: 1px solid black;
+    padding: 12px 30px;
+    
+}
+#bgg-color{
+    border: 1px solid orangered;
+    padding: 12px 0px ;
+    text-align: center;
+    background-color: orangered;
+}
+span{
+    
+    border: 2px solid wheat;
+    padding: 70px 130px;
+    background-color: wheat;
+}
+.pppp{
+    margin-bottom: 10%;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color: red;
+    padding-bottom: 3%;
+}
